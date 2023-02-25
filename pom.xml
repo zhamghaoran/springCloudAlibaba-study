@@ -12,6 +12,7 @@
         <module>Alibaba-Nacos-Consumer</module>
         <module>Alibaba-Nacos-Discovery1</module>
         <module>Alibaba-Nacos-Config</module>
+        <module>Alibaba-Sentinel</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
